@@ -12,5 +12,12 @@
     <string name="title_alertDialog">Внимание</string>
     <string name="alertDialog_about">Это диалоговое окно</string>
     <string name="insert_email">Email</string>
-
+    <string name="first">Первое</string>
+    <string name="second">Второе</string>
+    <string name="third">Третье</string>
+    <string name="button_row">row</string>
+    <string name="button_column">column</string>
+    <string name="button_box">box</string>
+    <string name="button_surface">surface</string>
+    <string name="button_scaffold">scaffold</string>
 </resources>
