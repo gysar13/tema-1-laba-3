@@ -4,6 +4,7 @@ import android.net.wifi.aware.AwareResources
 import androidx.annotation.StringRes
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import com.raywenderlich.android.lab1.R
 import com.raywenderlich.android.lab1.router.BackButtonHandler
 import com.raywenderlich.android.lab1.router.FundamentalsRouter
 import com.raywenderlich.android.lab1.router.Screen
@@ -21,7 +22,7 @@ private val items = listOf(
         R.string.kotlin,
         listOf(
             R.drawable.kotlin_coroutines,
-            R.drawable.kotlin_apentice
+            R.drawable.kotlin_aprentice
         )
     ),
     BookCategory(
@@ -29,14 +30,14 @@ private val items = listOf(
         listOf(
             R.drawable.combine,
             R.drawable.rx_swift,
-            R.drawable.swift_apperentice
+            R.drawable.swift_apprentice
         )
     ),
     BookCategory(
         R.string.ios,
         listOf(
-            R.drawable.care_data,
-            R.drawable.ios_apperentice
+            R.drawable.core_data,
+            R.drawable.ios_apprentice
         )
     )
 )

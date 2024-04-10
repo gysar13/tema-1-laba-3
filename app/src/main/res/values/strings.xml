@@ -24,4 +24,6 @@
     <string name="my_compose_app">MyComposeApp</string>
     <string name="android">Android</string>
     <string name="kotlin">Kotlin</string>
+    <string name="ios">IOS</string>
+    <string name="swift">Swift</string>
     </resources>
