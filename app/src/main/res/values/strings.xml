@@ -22,4 +22,6 @@
     <string name="button_scaffold">scaffold</string>
     <string name="menu">Меню</string>
     <string name="my_compose_app">MyComposeApp</string>
+    <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
     </resources>
