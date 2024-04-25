@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Lab3</string>
     <string name="massage_button">Закрыть</string>
     <string name="insert_text">Введите текст</string>
     <string name="set_button">выбрать</string>
@@ -29,4 +29,9 @@
     <string name="advanced_architecture_android">Усовершенствованная архитектура Android</string>
     <string name="kotlin_aprentice">Изучение Kotlin</string>
     <string name="kotlin_coroutines">Корутины в Kotlin</string>
+    <string name="button_Scrolling">Scrolling</string>
+    <string name="button_Lists">Lists</string>
+    <string name="button_Grid">Grid</string>
+    <string name="Book">Обложки книг</string>
+    <string name="grid_icon">Grid Icon</string>
     </resources>
