@@ -45,6 +45,7 @@ fun NavigationScreen(modifier: Modifier = Modifier) {
                 NavigationButton(stringResource(id = R.string.button_surface), Screen.Surface)
                 NavigationButton(stringResource(id = R.string.button_scaffold), Screen.Scaffold)
                 NavigationButton(stringResource(id = R.string.button_Scrolling), Screen.Scrolling)
+                NavigationButton(stringResource(id = R.string.button_List), Screen.List)
             }
         }
     }
